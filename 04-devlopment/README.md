@@ -1,3 +1,11 @@
-# 03-output-management
+# 04-development
 
-- [ ] [manifest](https://webpack.js.org/guides/output-management/#the-manifest),要详细研究
+## Using webpack's Watch Mode
+
+缺点：
+- you have to refresh your browser in order to see the changes
+
+## Using webpack-dev-server
+
+- Why 8080 ?
+- Why contentBase?
